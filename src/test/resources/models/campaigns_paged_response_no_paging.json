@@ -1,0 +1,17 @@
+{
+  "campaigns": [
+    {
+      "id": 300,
+      "name": "Sample Campaign",
+      "custom_id": "CMP-300",
+      "start_date": "2025-01-01",
+      "end_date": "2025-02-01",
+      "impression_cap": 500000,
+      "daily_impression_cap": 1000,
+      "monthly_impression_cap": 20000,
+      "status": "Active",
+      "resource": "https://app.simpli.fi/api/campaigns/300"
+    }
+  ]
+}
+

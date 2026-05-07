@@ -1,0 +1,25 @@
+{
+  "id": 10,
+  "name": "AdWithTypes",
+  "status": "Active",
+  "pacing": 10.0,
+  "click_tag_verified": true,
+  "preview_tag": "<preview>",
+  "target_url": "https://example.com",
+  "ad_file_types": [
+    {
+      "id": 4,
+      "name": "HTML",
+      "resource": "https://app.simpli.fi/api/ad_file_types/4"
+    },
+    {
+      "id": 1,
+      "name": "Image",
+      "resource": "https://app.simpli.fi/api/ad_file_types/1"
+    }
+  ],
+  "ad_sizes": [],
+  "ad_placements": [],
+  "resource": "https://app.simpli.fi/api/organizations/8/campaigns/697/ads/10"
+}
+

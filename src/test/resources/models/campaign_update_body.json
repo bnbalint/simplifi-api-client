@@ -1,0 +1,26 @@
+{
+  "name": "Updated Campaign",
+  "custom_id": "CMP-300",
+  "impression_cap": 100000,
+  "start_date": "2025-01-01",
+  "end_date": "2025-02-01",
+  "daily_impression_cap": 1000,
+  "auto_adjust_daily_impression_cap": true,
+  "media_type_id": 1,
+  "auto_optimize": true,
+  "bid": 2.50,
+  "bid_type_id": 2,
+  "frequency_capping": {
+    "how_many_times": 5,
+    "hours": 24
+  },
+  "campaign_type_id": 10,
+  "campaign_goal": {
+    "goal_value": "0.10",
+    "cpa_view_thru_per": "1.00",
+    "cpa_click_thru_per": "1.00",
+    "goal_type": "CPA"
+  },
+  "geo_target_ids": ["100", "200"]
+}
+

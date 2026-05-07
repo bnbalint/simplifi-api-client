@@ -1,0 +1,9 @@
+{
+  "id": 3,
+  "name": "160x600",
+  "width": 160,
+  "height": 600,
+  "allowed_audio_companion_size": false,
+  "resource": "https://app.simpli.fi/api/ad_sizes/3"
+}
+

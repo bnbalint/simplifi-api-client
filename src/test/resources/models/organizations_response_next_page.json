@@ -1,0 +1,20 @@
+{
+  "organizations": [
+    {
+      "id": 100,
+      "name": "Sample Org",
+      "custom_id": "ORG-100",
+      "ancestry": "1/100",
+      "public_key": "pub-key-xyz",
+      "website": "https://org.example.com",
+      "resource": "https://app.simpli.fi/api/organizations/100"
+    }
+  ],
+  "paging" : {
+    "page": 1,
+    "size": 50,
+    "total": 1,
+    "next": "https://app.simpli.fi/api/organizations?page=2"
+  }
+}
+

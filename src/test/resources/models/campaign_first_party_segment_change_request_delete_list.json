@@ -1,0 +1,9 @@
+{
+  "campaign_first_party_segments": {
+    "add": [],
+    "delete": [1,2],
+    "update": [],
+    "segment_match_type": "any"
+  }
+}
+

@@ -1,0 +1,10 @@
+{
+  "id": 500,
+  "name": "Segment A",
+  "organization_id": 100,
+  "company_wide": true,
+  "custom_values_enabled": false,
+  "active": true,
+  "resource": "https://app.simpli.fi/api/first_party_segments/500"
+}
+

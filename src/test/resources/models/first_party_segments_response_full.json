@@ -1,0 +1,33 @@
+{
+  "first_party_segments": [
+    {
+      "resource": "https://app.simpli.fi/api/first_party_segments/1407827",
+      "id": 1407827,
+      "name": "45678",
+      "user_count": 0,
+      "days_inactive": 0,
+      "active": false,
+      "organization_id": 529460,
+      "has_rules": true,
+      "has_custom_values": false,
+      "activity": [],
+      "last_activity": "Not yet seen",
+      "company_wide": false,
+      "custom_values_enabled": false,
+      "resources": [
+        {
+          "first_party_segment_rules": "https://app.simpli.fi/api/first_party_segments/1407827/first_party_segment_rules"
+        },
+        {
+          "first_party_segment_custom_values": "https://app.simpli.fi/api/first_party_segments/1407827/first_party_segment_custom_values"
+        },
+        {
+          "first_party_segment_tags": "https://app.simpli.fi/api/first_party_segments/1407827/organization_tags"
+        },
+        {
+          "changes": "https://app.simpli.fi/api/first_party_segments/1407827/changes"
+        }
+      ]
+    }
+  ]
+}

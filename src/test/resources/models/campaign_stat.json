@@ -1,0 +1,9 @@
+{
+  "impressions": 10000,
+  "clicks": 250,
+  "ctr": 0.025,
+  "cpm": 1.23,
+  "total_spend": 1234.56,
+  "resource": "https://app.simpli.fi/api/campaigns/300/stats"
+}
+

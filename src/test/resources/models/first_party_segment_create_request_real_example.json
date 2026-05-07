@@ -1,0 +1,16 @@
+{
+  "first_party_segment": {
+    "name":  "45678",
+    "custom_values_enabled": false,
+    "company_wide": false,
+    "first_party_segment_rules": [
+      {
+        "domain": "meantonevermatch.com",
+        "match_pattern": "",
+        "segment_url_match_type_id": 7
+      }
+    ],
+    "first_party_segment_tags": [278428]
+  }
+}
+

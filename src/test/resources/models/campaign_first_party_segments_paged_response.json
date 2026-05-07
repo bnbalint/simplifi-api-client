@@ -1,0 +1,26 @@
+{
+  "campaign_first_party_segments": [
+    {
+      "resource": "https://app.simpli.fi/api/campaign_first_party_segments/187",
+      "id": 187,
+      "campaign_id": 904,
+      "first_party_segment_id": 300987,
+      "segment_type_id": 2,
+      "warning_message": null
+    },
+    {
+      "resource": "https://app.simpli.fi/api/campaign_first_party_segments/188",
+      "id": 188,
+      "campaign_id": 904,
+      "first_party_segment_id": 309165,
+      "segment_type_id": 2,
+      "warning_message": null
+    }
+  ],
+  "paging": {
+    "page": 1,
+    "size": 10,
+    "total": 8
+  }
+}
+

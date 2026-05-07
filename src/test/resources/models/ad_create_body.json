@@ -1,0 +1,9 @@
+{
+  "name": "New Ad",
+  "ad_file_type_id": "4",
+  "ad_size_id": "3",
+  "ad_placement_id": 3,
+  "target_url": "https://example.com",
+  "html": "<div>Ad Html</div>"
+}
+

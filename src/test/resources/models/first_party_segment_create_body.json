@@ -1,0 +1,14 @@
+{
+  "name": "New Segment",
+  "custom_values_enabled": true,
+  "company_wide": false,
+  "first_party_segment_rules": [
+    {
+      "domain": "example.com",
+      "match_pattern": "/path",
+      "segment_url_match_type_id": 1
+    }
+  ],
+  "first_party_segment_tags": [1, 2]
+}
+

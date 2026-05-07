@@ -1,0 +1,12 @@
+{
+  "organization_tags": [
+    {
+      "id": 200,
+      "organization_id": 100,
+      "description": "Primary Tag",
+      "tag": "PRIMARY",
+      "allow_user_matching": true
+    }
+  ]
+}
+

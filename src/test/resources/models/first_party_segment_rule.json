@@ -1,0 +1,6 @@
+{
+  "domain": "example.com",
+  "match_pattern": "/path",
+  "segment_url_match_type_id": 1
+}
+

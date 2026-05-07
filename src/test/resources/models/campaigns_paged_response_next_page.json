@@ -1,0 +1,330 @@
+{
+  "campaigns": [
+    {
+      "resource": "https://app.simpli.fi/api/organizations/338742/campaigns/2587560",
+      "id": 2587560,
+      "name": "Cookie Audience - ID 10015",
+      "custom_id": "10015",
+      "current_win_rate": 0.0,
+      "daily_budget": null,
+      "auto_adjust_daily_budget": false,
+      "monthly_budget": null,
+      "total_budget": null,
+      "status": "Ended",
+      "impression_cap": 357143,
+      "daily_impression_cap": 9868,
+      "monthly_impression_cap": null,
+      "auto_adjust_daily_impression_cap": true,
+      "pacing": 100.0,
+      "automated_pacing_enabled": true,
+      "media_type_id": 1,
+      "segment_match_type": "any",
+      "auto_optimize": true,
+      "click_attribution_window": 30,
+      "view_attribution_window": 30,
+      "org_blocklist_opt_out": false,
+      "start_date": "2021-10-01",
+      "end_date": "2021-12-31",
+      "bid": 7.0,
+      "bid_type": {
+        "id": 1,
+        "name": "CPM"
+      },
+      "viewability": "Not Set",
+      "week_dayparting": [
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ]
+      ],
+      "frequency_capping": {
+        "how_many_times": null,
+        "hours": null
+      },
+      "campaign_type": {
+        "id": 3,
+        "name": "Site Retargeting"
+      },
+      "campaign_goal": {
+        "goal_type": "ctr",
+        "goal_value": 0.1,
+        "cpa_view_thru_per": 1.0,
+        "cpa_click_thru_per": 1.0
+      },
+      "oba_provider": {
+        "id": 1,
+        "name": "Truste"
+      },
+      "actions": [
+        {
+          "activate": {
+            "href": "https://app.simpli.fi/api/organizations/338742/campaigns/2587560/activate",
+            "method": "POST"
+          }
+        },
+        {
+          "copy": {
+            "href": "https://app.simpli.fi/api/organizations/338742/campaigns/2587560/copy",
+            "method": "POST"
+          }
+        }
+      ],
+      "resources": [
+        {
+          "ads": "https://app.simpli.fi/api/organizations/338742/campaigns/2587560/ads"
+        },
+        {
+          "creative_groups": "https://app.simpli.fi/api/campaigns/2587560/creative_groups"
+        },
+        {
+          "keywords": "https://app.simpli.fi/api/organizations/338742/campaigns/2587560/keywords"
+        },
+        {
+          "domains": "https://app.simpli.fi/api/organizations/338742/campaigns/2587560/domains"
+        },
+        {
+          "browsers": "https://app.simpli.fi/api/organizations/338742/campaigns/2587560/browsers"
+        },
+        {
+          "custom_field_values": "https://app.simpli.fi/api/organizations/338742/campaigns/2587560/custom_field_values"
+        },
+        {
+          "devices": "https://app.simpli.fi/api/organizations/338742/campaigns/2587560/devices"
+        },
+        {
+          "device_types": "https://app.simpli.fi/api/campaigns/2587560/device_types"
+        },
+        {
+          "contexts": "https://app.simpli.fi/api/organizations/338742/campaigns/2587560/contexts"
+        },
+        {
+          "postal_codes": "https://app.simpli.fi/api/organizations/338742/campaigns/2587560/postal_codes"
+        },
+        {
+          "geo_targets": "https://app.simpli.fi/api/organizations/338742/campaigns/2587560/geo_targets"
+        },
+        {
+          "ip_ranges": "https://app.simpli.fi/api/organizations/338742/campaigns/2587560/ip_ranges"
+        },
+        {
+          "deals": "https://app.simpli.fi/api/organizations/338742/campaigns/2587560/deals"
+        },
+        {
+          "third_party_segments": "https://app.simpli.fi/api/organizations/338742/campaigns/2587560/third_party_segments"
+        },
+        {
+          "ad_placements": "https://app.simpli.fi/api/organizations/338742/campaigns/2587560?include=ad_placements"
+        },
+        {
+          "first_party_segments": "https://app.simpli.fi/api/campaigns/2587560/campaign_first_party_segments"
+        },
+        {
+          "changes": "https://app.simpli.fi/api/organizations/338742/campaigns/2587560/changes"
+        },
+        {
+          "comments": "https://app.simpli.fi/api/campaigns/2587560/comments"
+        },
+        {
+          "addresses": "https://app.simpli.fi/api/campaigns/2587560/campaign_addresses"
+        },
+        {
+          "geo_fences": "https://app.simpli.fi/api/campaigns/2587560/geo_fences"
+        },
+        {
+          "budget_plans": "https://app.simpli.fi/api/campaigns/2587560/budget_plans"
+        },
+        {
+          "events": "https://app.simpli.fi/api/campaigns/2587560/campaign_events"
+        },
+        {
+          "operating_systems": "https://app.simpli.fi/api/campaigns/2587560/operating_systems"
+        }
+      ]
+    }
+  ],
+  "paging": {
+    "page": 1,
+    "size": 1,
+    "total": 395,
+    "next": "/baseUrl/organizations/283320/campaigns?children=true&page=2&size=1"
+  }
+}
+

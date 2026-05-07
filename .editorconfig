@@ -1,0 +1,48 @@
+#--------------------------------------------------------------------------------------
+# Designed to work with ktlint version 1.1.1
+
+root = true
+
+#--------------------------------------------------------------------------------------
+# all of these configs will apply to files ending with kt or kts
+[*.{kt,kts}] # DO NOT use spaces inside the brackets
+indent_style = space
+ktlint_code_style = intellij_idea
+max_line_length = 160
+
+# disabled rules from the standard rule set
+ktlint_standard_enum-entry-name-case = disabled
+ktlint_standard_final-newline = disabled
+ktlint_standard_no-consecutive-blank-lines = disabled
+ktlint_standard_no-empty-first-line-in-method-block = disabled
+ktlint_standard_no-empty-first-line-in-class-body = disabled
+ktlint_standard_no-wildcard-imports = disabled
+ktlint_standard_parameter-list-wrapping = disabled
+ktlint_standard_trailing-comma-on-call-site = disabled
+ktlint_standard_trailing-comma-on-declaration-site = disabled
+ktlint_standard_unnecessary-parentheses-before-trailing-lambda = disabled
+ktlint_standard_comment-spacing = disabled
+ktlint_standard_curly-spacing = disabled
+ktlint_standard_multiline-expression-wrapping = disabled
+ktlint_standard_string-template-indent = disabled
+ktlint_standard_value-argument-comment = disabled
+ktlint_standard_block-comment-initial-star-alignment = disabled
+ktlint_standard_function-signature = disabled
+ktlint_standard_property-naming = disabled
+ktlint_standard_value-argument-comment = disabled
+
+# enabled rules from the experimental rule set
+ktlint_experimental_chain-method-continuation = enabled
+
+
+# enable the entire bnbalint custom rule set
+ktlint_bnbalint-ktlint-rules = enabled
+
+
+
+#--------------------------------------------------------------------------------------
+# all of these configs will apply to TEST files ending with kt or kts
+[**/test/**/*.{kt,kts}] # DO NOT use spaces inside the brackets
+ktlint_bnbalint-ktlint-rules_no-println = disabled
+ktlint_bnbalint-ktlint-rules_no-print = disabled
+ktlint_experimental_function-naming = disabled
