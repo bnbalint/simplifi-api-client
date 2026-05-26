@@ -133,6 +133,7 @@ These endpoints are:
 - listCampaignFirstPartySegments
   - likely to never use this - we only create one of these per campaign
 <br><br>
+
 The maximum number of items that can be returned per page is 500, however we default to 100 to avoid the DataBufferLimitException.
 This value can be overridden via the `size` parameter on the relevant methods. <br>
 
